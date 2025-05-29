@@ -1,5 +1,14 @@
-Estoy muy contentos de ofrecerles esta breve introducción al mundo de Linux. Antes de empezar, nme gustaría aprovechar esta oportunidad para explicarle cuál es el objetivo y alcance de este módulo.
+# Introduccion ##
+<div style="text-align: justify;">
+Estoy muy contento de ofrecer esta breve introducción al mundo de Linux. Antes de empezar, me gustaría aprovechar esta oportunidad para explicarle cuál es el objetivo y alcance de este módulo.
+</div>div>
 
+# Uso de LINUX ##
+<div style="text-align: justify;">
 Como ya debe saber, el kernel o núcleo Linux se utiliza en un gran número de sistemas. Se puede encontrar en todas partes, desde automóviles a cohetes, de relojes a televisores, o desde ordenadores portátiles a supercomputadoras de las más rápidas. Linux solo representa un porcentaje relativamente pequeño de los sistemas operativos que se encuentran en computadoras de escritorio, pero ha ganado uso generalizado en servidores, dispositivos de internet en objetos (Internet of Things, IoT), equipos de redes, smartphones (o teléfonos móviles inteligentes) y muchos otros dispositivos que ni siquiera se consideran computadoras. 
 Desde el router doméstico que le proporciona conexión a Internet al servidor en el que está alojado este curso, es probable que varios dispositivos estén usando tecnología Linux para permitirle leer esta página.
+</div>
+<br>
 
+
+![Linux Logo](linux-world.png)
